@@ -24,7 +24,6 @@ define(['N/ui/serverWidget', 'N/search', 'N/log'],
                     title: 'Basic Form'
                 });
 
-
                 form.addFieldGroup({
                     id: 'custpage_usergroup',
                     label: 'User Information'
